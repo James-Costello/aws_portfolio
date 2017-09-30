@@ -11,4 +11,6 @@ artifacts:
     -favicon.ico
     -styles/main.css
     -images/*
+  discard-paths: yes
+  base-directory: location
 
