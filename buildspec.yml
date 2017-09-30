@@ -12,5 +12,3 @@ artifacts:
     -styles/main.css
     -images/*
   discard-paths: yes
-  base-directory: /
-
