@@ -7,8 +7,8 @@ phases:
 
 artifacts:
   files:
-    -index.html
-    -favicon.ico
-    -styles/main.css
-    -images/*
+    - index.html
+    - favicon.ico
+    - styles/main.css
+    - images/*
   discard-paths: yes
